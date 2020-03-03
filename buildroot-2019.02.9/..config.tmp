@@ -2557,7 +2557,7 @@ endif
 ifneq "$(HOSTARCH)" "x86_64"
 /home/hare/文档/rootfs/buildroot-2019.02.9/output/build/buildroot-config/auto.conf: FORCE
 endif
-ifneq "$(BR2_VERSION_FULL)" "2019.02.9"
+ifneq "$(BR2_VERSION_FULL)" "2019.02.9-g1b4e54e-dirty"
 /home/hare/文档/rootfs/buildroot-2019.02.9/output/build/buildroot-config/auto.conf: FORCE
 endif
 
